@@ -1,0 +1,9 @@
+Komendy MINGW (unix)
+cd -> przechodziłem do katalogu (folder)
+ls -> pokazuje dane pliki i katalogi w obecnym katalogu
+
+git clone XXXX -> klonuje repozytorium
+git add * -> dodaje zmiany do commita
+git commit -m "komentarz" -> dodaje komentarz do commita
+git pull -> pobiera obecny stan repozytorium (z GitHuba)
+git push -> wrzucasz commita (zmiany) na GitHuba
